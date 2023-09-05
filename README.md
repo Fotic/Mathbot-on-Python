@@ -16,19 +16,19 @@ The introduction of a mathbot designed to assess students on basic equations mar
 <img src="https://a.imagem.app/bNZybJ.png" alt="bNZybJ.png" border="0" width="300"/>
 
 ### About
-<img src="https://a.imagem.app/bNZNum.png" alt="bNZNum.png" border="0" width="550" /> 
+<img src="https://a.imagem.app/bNZNum.png" alt="bNZNum.png" border="0" width="300" /> 
 
 ### Main Screen
-<img src="https://a.imagem.app/bNd8cQ.png" alt="bNd8cQ.png" border="0" width="550"/>
-<img src="https://a.imagem.app/bNdAP1.png" alt="bNdAP1.png" border="0" width="550"/> 
-<img src="https://a.imagem.app/bNdoSW.png" alt="bNdoSW.png" border="0" width="550"/>
-<img src="https://a.imagem.app/bNd3qt.png" alt="bNd3qt.png" border="0" width="550"/>
+<img src="https://a.imagem.app/bNd8cQ.png" alt="bNd8cQ.png" border="0" width="300"/>
+<img src="https://a.imagem.app/bNdAP1.png" alt="bNdAP1.png" border="0" width="300"/> 
+<img src="https://a.imagem.app/bNdoSW.png" alt="bNdoSW.png" border="0" width="300"/>
+<img src="https://a.imagem.app/bNd3qt.png" alt="bNd3qt.png" border="0" width="300"/>
 
 ### My Results
-<img src="https://a.imagem.app/bNdHby.png" alt="bNdHby.png" border="0" width="550"/>
+<img src="https://a.imagem.app/bNdHby.png" alt="bNdHby.png" border="0" width="300"/>
 
 ### Top 10
-<img src="https://a.imagem.app/bNdhE2.png" alt="bNdhE2.png" border="0" width="550"/>
-<img src="https://a.imagem.app/bNd2nl.png" alt="bNd2nl.png" border="0" width="550"/>
-<img src="https://a.imagem.app/bNd7rS.png" alt="bNd7rS.png" border="0" width="550"/>
-<img src="https://a.imagem.app/bNdkNP.png" alt="bNdkNP.png" border="0" width="550"/>
+<img src="https://a.imagem.app/bNdhE2.png" alt="bNdhE2.png" border="0" width="300"/>
+<img src="https://a.imagem.app/bNd2nl.png" alt="bNd2nl.png" border="0" width="300"/>
+<img src="https://a.imagem.app/bNd7rS.png" alt="bNd7rS.png" border="0" width="300"/>
+<img src="https://a.imagem.app/bNdkNP.png" alt="bNdkNP.png" border="0" width="300"/>
